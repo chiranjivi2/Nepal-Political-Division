@@ -1,0 +1,28 @@
+{
+    "states":[
+       {
+          "state":"Pradesh 1",
+          "id":"state-1",
+          "english_name":"Pradesh 1",
+          "devanagari_name":"Nepali",
+          "districts":[
+             {
+                "name":"Jhapa",
+                "id":"district-3",
+                "english_name":"Jhapa",
+                "devanagari_name":"झापा",
+                "localbodies":[
+                   {
+                      "name":"Name of municipality or gaupalika",
+                      "type":"municipality or vdc",
+                      "english_name":"aaaaa",
+                      "devanagari_name":""
+                   }
+                ]
+             }
+          ]
+       }
+    ]
+ }
+Footer
+© 2022 GitHu
